@@ -14,7 +14,9 @@
 * Flamberge - Acorn Acrom
 * Francisca - Omega Knight 64
 * Zan Partizanne - Holly
+* Sailor Waddle Dee - BluberryDee
 ### Villains
+* Arena Waddle Dee - BluberryDee
 * Dark Meta Knight - Acorn Acrom
 * Zero - GammaRaul
 ### Bosses
@@ -39,15 +41,13 @@
 * Waddle Dee - GammaRaul
 * Waddle Doo - GammaRaul
 * Walky - Theopold
+* N-Z - BluberryDee
 
 ## Original Characters
 ### Main Characters
 * Angel - Holly
 * Rea the Dreedorus - Yoyodoodles
 * Rebarx - MarxyBoi
-* Scorch - Magma
-* Frigi - Magma
-* Sylvianna - Magma
 ### Side Characters
 * Pilot Dee - GammaRaul
 * Sammy - Yoyodoodles
@@ -59,3 +59,4 @@
 ### Mini-Bosses
 ### Enemies
 * Kaboomba/Virus Vessel - Theopold
+* Lava Waddle Dee - BluberryDee
